@@ -7,7 +7,7 @@ Hey there!
 Your challenge is ready.
 Follow the instructions provided for this challenge and complete the required tasks in this repository.
 
-Make sure your work is committed and pushed to your repository before submission.
+Make sure your work is committed and pushed to your repository before submission.....
 
 Good luck!
 
